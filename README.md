@@ -1,5 +1,7 @@
 # hello-world
-Just a test \n
-Another test \n
-Still testing \n
+Just a test
+
+Another test
+
+Still testing
 1-2-3
